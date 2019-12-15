@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/s-e1/Crypto-currencies/issues"
   },
-  "homepage": "https://github.com/s-e1/Crypto-currencies",
-  "dependencies": {
-    "gh-pages": "^2.1.1"
-  }
+  "homepage": "https://github.com/s-e1/Crypto-currencies"
 }
