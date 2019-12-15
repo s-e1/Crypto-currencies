@@ -1,0 +1,23 @@
+{
+  "name": "project2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-e1/Crypto-currencies.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s-e1/Crypto-currencies/issues"
+  },
+  "homepage": "https://github.com/s-e1/Crypto-currencies",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
